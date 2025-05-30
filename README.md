@@ -54,10 +54,15 @@ This repository showcases a **combined PDF dashboard** built from two detailed p
 
 ---
 
-## 📄 File in This Repository
+## 📄 Files in This Repository
 
 - `Sales & Finance Analysis.pdf`  
-  👉 [Click here to view the full dashboard](https://github.com/JainamJain07/excel-sales-finance-analysis/blob/main/Sales%20%26%20Finance%20Analysis.pdf)
+  👉 [Click here to view the full dashboard (https://github.com/JainamJain07/excel-sales-finance-analysis/blob/main/Sales%20%26%20Finance%20Analysis.pdf)
+
+- `Sales_Analysis.xlsx` & `Finance_Analysis.xlsx`  
+  📝 Original Excel files used to build the dashboards  
+  🔗 *Note: GitHub cannot preview these due to file size, but they are available for download.*
+
 
 ---
 
